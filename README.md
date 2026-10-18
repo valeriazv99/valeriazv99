@@ -1,4 +1,4 @@
-## Hola, soy Valeria 👋
+## Hola, soy Valeria 
 
 Desarrolladora web junior en Barcelona. Me formé en el **CFGS de Desarrollo de Aplicaciones Web** y he construido aplicaciones completas: interfaz, API, base de datos, tests y despliegue con Docker.
 
@@ -8,7 +8,7 @@ Busco mi **primera oportunidad en desarrollo web**, en empleo o prácticas.
 - 🤖 Uso a diario **Claude** y **GitHub Copilot** para programar, depurar y aprender más rápido, con un flujo *spec-driven* (OpenSpec).
 - 💬 Hablo español, catalán e inglés.
 
-### 🛠️ Stack
+### Stack
 
 **Frontend**
 ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?logo=vuedotjs&logoColor=white)
@@ -38,7 +38,7 @@ Busco mi **primera oportunidad en desarrollo web**, en empleo o prácticas.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
-### 🚀 Proyectos destacados
+### Proyectos destacados
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
@@ -47,7 +47,7 @@ Busco mi **primera oportunidad en desarrollo web**, en empleo o prácticas.
 | [**The Lost Word**](https://github.com/valeriazv99/the-lost-word-game) | Juego multijugador de mecanografía con salas en tiempo real. | Vue · Express · Socket.IO · MySQL |
 | [**Autoescola Quiz**](https://github.com/valeriazv99/autoescola-quiz) | Test de examen teórico de conducir con panel de administración. | JavaScript · PHP · MySQL |
 
-### 📫 Contacto
+### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-zavaleta-vasquez)
 [![Email](https://img.shields.io/badge/valeriazv99%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:valeriazv99@gmail.com)
